@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475933063144",
+    "firebase_url": "https://tweet-280a3.firebaseio.com",
+    "project_id": "tweet-280a3",
+    "storage_bucket": "tweet-280a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475933063144:android:2b4be29fb7d4626027965d",
+        "android_client_info": {
+          "package_name": "com.sandeep.tweet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475933063144-euup5maarhv8moc0e0emdj40aoulpc4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandeep.tweet",
+            "certificate_hash": "937ade470a91b16672792ce4284047a8ea6d0d29"
+          }
+        },
+        {
+          "client_id": "475933063144-0u89rav7qqldmdci1c2q659hcnhdee37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmEVh0e89FhpQI3lE_l2vGlg52lom6J24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475933063144-0u89rav7qqldmdci1c2q659hcnhdee37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
