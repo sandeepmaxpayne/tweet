@@ -1,4 +1,4 @@
-# User Authentication using Twiltter API on Android
+# User Authentication using Twitter API on Android
 <h4> Description </h4>
 <ul>
  <li>To login using Twitter</li>
